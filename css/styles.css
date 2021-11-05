@@ -1,14 +1,43 @@
-#sideNav{
+body{
+    margin-left: 1% !important;
+    margin-right: 1% !important;
+}
+
+.navbar{
+    background: darkgreen !important;
+}
+
+.navbar-brand{
+    color: wheat !important;
+    font-weight: bolder;
+}
+
+.nav-item{
+    color: wheat !important;
+}
+
+.jumbotron{
+    height: 25vh;
+    background: goldenrod;
+    color: darkgreen;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+.sideNav{
     position: fixed;
-    right: 0;
-    bottom: 0;
-    left: 0;
+    background: darkgreen;
+    height: 100%;
 }
 
-#Hobbycards{
-    float: right !important;
+.nav-link{
+    color: wheat !important;
 }
 
-.card{
-    float: right;
+.cardPic{
+    height: 100%;
+}
+
+.cardContent{
+    height: 100%;
 }
