@@ -26,12 +26,13 @@ body{
 
 .sideNav{
     position: fixed;
-    background: darkgreen;
-    height: 100%;
+    color: darkgreen;
+    height: 15%;
 }
 
 .nav-link{
-    color: wheat !important;
+    color: darkgreen;
+    font-weight: bolder;
 }
 
 .cardPic{
