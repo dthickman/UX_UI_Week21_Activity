@@ -1,6 +1,6 @@
 body{
-    margin-left: 1% !important;
-    margin-right: 1% !important;
+    margin-left: 2% !important;
+    margin-right: 2% !important;
 }
 
 .navbar{
@@ -26,7 +26,6 @@ body{
 
 .sideNav{
     position: fixed;
-    color: darkgreen;
     height: 15%;
 }
 
